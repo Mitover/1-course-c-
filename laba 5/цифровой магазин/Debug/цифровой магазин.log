@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Git\Univer\C++\1 course\laba 5\цифровой магазин\GameList.h(57): warning C4715: List::FindGame: значение возвращается не при всех путях выполнения
+  цифровой магазин.vcxproj -> D:\Git\Univer\C++\1 course\laba 5\Debug\цифровой магазин.exe

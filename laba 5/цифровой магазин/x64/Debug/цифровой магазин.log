@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\wp\desktop\цифровой магазин\цифровой магазин\header.h(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\wp\desktop\цифровой магазин\цифровой магазин\header.h(1): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  цифровой магазин.vcxproj -> C:\Users\WP\Desktop\цифровой магазин\x64\Debug\цифровой магазин.exe
+  цифровой магазин.vcxproj -> C:\Users\WP\Desktop\цифровой магазин\x64\Debug\цифровой магазин.pdb (Partial PDB)
