@@ -1,6 +1,8 @@
 #include <math.h>
 #include <iostream> 
 using namespace std;
+
+
 long double Fact(int i)
 { 
 	if (i<0)
@@ -9,6 +11,7 @@ long double Fact(int i)
 		return 1;
 	else return i*Fact(i-1);
 }
+
 void main()
 {
 	double e, a = -2;

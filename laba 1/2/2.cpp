@@ -5,22 +5,22 @@ using namespace std;
 void main() 
 { 
     int a,b,c,x; 
-    cout<<"Vedite a!=0"; 
+    cout<<"Input a!=0"; 
     cin>>a; 
-    cout<<"Vedite b"; 
+    cout<<"Input b"; 
     cin>>b; 
-    cout<<"Vedite c"; 
+    cout<<"Input c"; 
     cin>>c; 
     if((b*b-4*a*c)>=0) 
     { 
       x=(-1*b+sqrt(b*b-4*a*c))/(2*a); 
-      cout<<"Pervii koren raven"<<x<<endl; 
+      cout<<"First root="<<x<<endl; 
       x=(-1*b-sqrt(b*b-4*a*c))/(2*a); 
-      cout<<"Vtoroi koren raven"<<x<<endl; 
+      cout<<"Second root="<<x<<endl; 
      } 
      else 
     { 
-	cout<<"net kornei"<<endl; 
+	cout<<"not roots"<<endl; 
     } 
 system ("pause");
 }

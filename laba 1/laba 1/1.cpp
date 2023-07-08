@@ -7,7 +7,7 @@ void main()
 {
 	double a,b;
 	int x,y,z;
-	cout<<" vedite x, y , z"<<endl;
+	cout<<" Input x, y , z"<<endl;
 	cin>>x;
 	cin>>y;
 	cin>>z;
